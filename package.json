@@ -25,5 +25,13 @@
   },
   "devDependencies": {
     "eslint": "^5.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFTC/eslint-config-sf-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SFTC/eslint-config-sf-vue/issues"
+  },
+  "homepage": "https://github.com/SFTC/eslint-config-sf-vue#readme"
 }
